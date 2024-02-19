@@ -1,0 +1,5 @@
+# Used for direnv
+**/.envrc/
+
+# Go workspace
+**/go.work
